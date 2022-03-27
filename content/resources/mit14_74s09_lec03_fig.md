@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e92cbec9-cfc1-08c2-4f45-41249c93f828
 resourcetype: Document
 title: 'Nutrition and productivity: interrelationships'
 uid: f1f013e0-fe6d-050f-94ac-dba4280134ed

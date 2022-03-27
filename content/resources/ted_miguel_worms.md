@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4512250d-75b9-eea0-4943-9b0898e8ee1a
 resourcetype: Other
 title: ted_miguel_worms
 uid: 2b79215b-6829-fdad-ab67-44daf7bf68a0

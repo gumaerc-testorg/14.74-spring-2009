@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4512250d-75b9-eea0-4943-9b0898e8ee1a
 resourcetype: Document
 title: Presentations
 uid: 4edf3dab-00f6-1bea-642c-d5327c191a80
