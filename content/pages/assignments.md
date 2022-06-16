@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the assignments for the course along with supporting
+  files and links to related resources.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -41,9 +43,9 @@ Essay exercise: a preview of material to come
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit14_74s09_pset01))
+({{% resource_link bb61f91b-033d-8553-603c-0699610590f4 "PDF" %}})
 
-wbdr.dta ([DTA]({{< baseurl >}}/resources/wbdr))
+wbdr.dta ({{% resource_link cb153096-77fb-4386-cedc-c2562211f34a "DTA" %}})
 
 
 {{< tdclose >}}
@@ -65,9 +67,9 @@ Essay question
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit14_74s09_pset02))
+({{% resource_link 920ce089-5ad0-68b4-74c1-6658ebd73746 "PDF" %}})
 
-supas.dta ([DTA]({{< baseurl >}}/resources/supas))
+supas.dta ({{% resource_link 82171793-f5c9-6098-4560-0fea7bcb9732 "DTA" %}})
 
 Duflo, Esther, Pascaline Dupas, and Michael Kremer. "Peer Effects, Pupil-teacher Ratios, and Teacher Incentives: Evidence from a Randomized Evaluation in Kenya." Mimeograph, Massachusetts Institute of Technology, September 2007.
 
@@ -93,9 +95,9 @@ Essay question on regression
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit14_74s09_pset03))
+({{% resource_link 3519b874-93b7-e0c5-629f-a38314aa5b7e "PDF" %}})
 
-ted\_miguel\_worms.dta ([DTA]({{< baseurl >}}/resources/ted_miguel_worms))
+ted\_miguel\_worms.dta ({{% resource_link 2b79215b-6829-fdad-ab67-44daf7bf68a0 "DTA" %}})
 
 Miguel, Edward, and Michael Kremer. "[Worms: Identifying Impacts on Education and Health in the Presence of Treatment Externalities](http://ideas.repec.org/a/ecm/emetrp/v72y2004i1p159-217.html)." _Econometrica_ 72, no. 1 (January 2004): 159-217.
 
@@ -121,9 +123,9 @@ Savings: evidence from Thailand
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit14_74s09_pset04))
+({{% resource_link 92586388-33bb-7c4d-f744-e6cb93aa7bc3 "PDF" %}})
 
-paxson.dta ([DTA]({{< baseurl >}}/resources/paxson))
+paxson.dta ({{% resource_link 577d5333-f090-dfc1-e001-f8904efc5172 "DTA" %}})
 
 Paxson, Christina. "[Using Weather Variability to Estimate the Response of Savings to Transitory Income in Thailand](http://ideas.repec.org/a/aea/aecrev/v82y1992i1p15-33.html)." _American Economic Review_ 82, no. 1 (March 1992): 15-33.
 
@@ -147,7 +149,7 @@ Credit as insurance
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit14_74s09_pset05))
+({{% resource_link e7929f0c-22e2-8be5-7499-06343482320f "PDF" %}})
 
 Udry, Christopher. "[Credit Markets in Northern Nigeria: Credit as Insurance in a Rural Economy](http://ideas.repec.org/a/oup/wbecrv/v4y1990i3p251-69.html)." _World Bank Economic Review_ 4, no. 3 (September 1990): 251-269.
 
@@ -163,7 +165,7 @@ Udry, Christopher. "[Credit Markets in Northern Nigeria: Credit as Insurance in 
 Credit market models
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit14_74s09_pset06))
+({{% resource_link 1e457eb1-03d8-912c-ac49-d757e4420b4d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -173,7 +175,7 @@ Credit market models
 Presentations
 -------------
 
-The guidelines below are also available in this file: ([PDF]({{< baseurl >}}/resources/mit14_74s09_pset07_project))
+The guidelines below are also available in this file: ({{% resource_link 4edf3dab-00f6-1bea-642c-d5327c191a80 "PDF" %}})
 
 Each of you is required to present to the class on a topic that interests you in development. You may work in a group of two or individually. The talk should be 5 minutes long, and if you work in a group, both students should take the opportunity to speak.
 
