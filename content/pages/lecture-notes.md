@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics, notes from selected
+  lectures, and information on figures used in the lecture notes.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: e92cbec9-cfc1-08c2-4f45-41249c93f828
 ---
@@ -27,7 +32,7 @@ FIGURES
 1-2
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction: the vicious circle of poverty ([PDF]({{< baseurl >}}/resources/mit14_74s09_lec02))
+Introduction: the vicious circle of poverty ({{% resource_link 119803d6-aa0d-bdd3-1f04-7d4650a73392 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -40,12 +45,12 @@ Introduction: the vicious circle of poverty ([PDF]({{< baseurl >}}/resources/mit
 {{< tdclose >}}
 {{< tdopen >}}
 Nutrition and productivity: interrelationships  
-([PDF 1]({{< baseurl >}}/resources/mit14_74s09_lec03)) ([PDF 2]({{< baseurl >}}/resources/mit14_74s09_lec04))
+({{% resource_link ddb0d85c-dd3a-2207-995c-aceb093dd45d "PDF 1" %}}) ({{% resource_link b87b2799-b21d-1175-1eab-e1ad499388f0 "PDF 2" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit14_74s09_lec03_fig))
+({{% resource_link f1f013e0-fe6d-050f-94ac-dba4280134ed "PDF" %}})
 
 Tables 1-2 and Figs. 2-5 in Subramanian, S., and A. Deaton. "The Demand for Food and Calories." _Journal of Political Economy_ 104, no. 1 (1996): 133-162.
 
@@ -59,7 +64,7 @@ Tables 1-2 and Figs. 2-5 in Subramanian, S., and A. Deaton. "The Demand for Food
 {{< tdclose >}}
 {{< tdopen >}}
 Education  
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1]({{< baseurl >}}/resources/mit14_74s09_lec05)) ([PDF 2]({{< baseurl >}}/resources/mit14_74s09_lec06))
+({{% resource_link df3e7624-c46b-cefd-c380-17312f9aa5e8 "PDF 1" %}}) ({{% resource_link 159730cb-a71e-0c9c-5a6b-70df0ceb9c9b "PDF 2" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Figure 2 in Duflo, E. "Schooling and Labor Market Consequences of School Construction in Indonesia: Evidence from an Unusual Policy Experiment." _American Economic Review_ 91, no. 4 (2001): 795-813.
@@ -74,7 +79,7 @@ Figure 2 in Duflo, E. "Schooling and Labor Market Consequences of School Constru
 
 
 Health: a case study from Rajasthan  
-([PDF 1]({{< baseurl >}}/resources/mit14_74s09_lec09)) (Courtesy of Abhijit Banerjee and Esther Duflo. Used with permission.) ([PDF 2 ‑ 2.4MB]({{< baseurl >}}/resources/mit14_74s09_lec10))
+({{% resource_link 0368ab57-cd29-b64b-1e2b-6423e05ae6f1 "PDF 1" %}}) (Courtesy of Abhijit Banerjee and Esther Duflo. Used with permission.) ({{% resource_link 98ea9887-a76c-5d47-d407-218f7fee8f37 "PDF 2 ‑ 2.4MB" %}})
 
 
 {{< tdclose >}}
@@ -89,7 +94,7 @@ Health: a case study from Rajasthan
 {{< tdclose >}}
 {{< tdopen >}}
 Gender discrimination  
-([PDF]({{< baseurl >}}/resources/mit14_74s09_lec13))
+({{% resource_link dbcc3549-423f-5da4-7c18-24e04cdecbea "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -102,7 +107,7 @@ Gender discrimination
 {{< tdclose >}}
 {{< tdopen >}}
 Bargaining within families  
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_74s09_lec14))
+({{% resource_link 919b5c03-68bd-8b4e-0b50-783a6377c767 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Tables 2 and 6 in Thomas, Duncan. "[Intra-household Resource Allocation: An Inferential Approach](http://ideas.repec.org/p/fth/yalegr/586.html)." _Journal of Human Resources_ 25, no. 4 (1990): 635-664.
@@ -126,7 +131,7 @@ In-class student presentations
 17-18
 {{< tdclose >}}
 {{< tdopen >}}
-Land (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_74s09_lec17))
+Land ({{% resource_link 63f925b0-2a63-478b-781c-f413daf9d6ad "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -139,7 +144,7 @@ Land (![This resource may not render correctly in a screen reader.](/images/inac
 {{< tdclose >}}
 {{< tdopen >}}
 Savings  
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1]({{< baseurl >}}/resources/mit14_74s09_lec19)) ([PDF 2]({{< baseurl >}}/resources/mit14_74s09_lec20))
+({{% resource_link 434e6a9f-b713-6192-53dd-f7f86d5e0ae4 "PDF 1" %}}) ({{% resource_link 0d5cc993-cbdf-2cd0-f7cd-486ee55d5dbe "PDF 2" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -164,7 +169,7 @@ Insurance
 {{< tdclose >}}
 {{< tdopen >}}
 Credit markets  
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.0MB]({{< baseurl >}}/resources/mit14_74s09_lec22))
+({{% resource_link c0937f5f-54ce-7603-b984-b001a2d74387 "PDF - 2.0MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -176,7 +181,7 @@ Credit markets
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Formal and informal institutions ([PDF]({{< baseurl >}}/resources/mit14_74s09_lec24))
+Formal and informal institutions ({{% resource_link 00ae1bd0-50db-6efc-fdfd-bf7a23e69496 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -188,7 +193,7 @@ Formal and informal institutions ([PDF]({{< baseurl >}}/resources/mit14_74s09_le
 25
 {{< tdclose >}}
 {{< tdopen >}}
-Limits to social policy: corruption ([PDF]({{< baseurl >}}/resources/mit14_74s09_lec25))
+Limits to social policy: corruption ({{% resource_link 4a54293a-63db-d826-7d75-bbf7c605de3f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
