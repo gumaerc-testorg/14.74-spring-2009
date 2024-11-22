@@ -57,22 +57,22 @@ e) "Aging and Death under a Dollar a Day": Banerjee and Duflo (2007)
 
 *Nutrition and productivity: interrelationships*
 
-a) Theoretical model   
+a) Theoretical model    
 Poor nutrition leads to low productivity. Low productivity leads to unemployment and low incomes. Low income leads to poor nutrition. This theoretical model can be applied to education, health, nutrition, gender and inter-generational discrimination, and many other issues: Ray, pp. 272-279 and 489-504
 
 b) Empirical evidence
 
-\> i) From income to nutrition:  
-\>   
-\> > (1) Income to nutrition: a study of Maharashtra, India: Subramanian and Deaton (1996)  
-\> >   
-\> > (2) Monetary transfer to the elderly can lead to better nutrition for children. A study of old age pension in South Africa: Duflo (2003)  
-\>   
-\> ii) From nutrition to income:  
-\>   
-\> > (1) Ray, chapter 8. In particular, sections 8.3 and 8.4  
-\> >   
-\> > (2) Thomas et al. (2004)
+\\> i) From income to nutrition:   
+\\>    
+\\> > (1) Income to nutrition: a study of Maharashtra, India: Subramanian and Deaton (1996)   
+\\> >    
+\\> > (2) Monetary transfer to the elderly can lead to better nutrition for children. A study of old age pension in South Africa: Duflo (2003)   
+\\>    
+\\> ii) From nutrition to income:   
+\\>    
+\\> > (1) Ray, chapter 8. In particular, sections 8.3 and 8.4   
+\\> >    
+\\> > (2) Thomas et al. (2004)
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -282,21 +282,21 @@ a) Collective action: Banerjee, Iyer, and Somanathan (2007)
 
 b) Social networks: no policy happens in the void. What role do informal institutions and norms play?
 
-\> i) Norms helped to sustain long distance trade among Maghribi traders: Greif (1993)  
-\>   
-\> ii) However, successful informal institution can be an obstacle to the development of formal institutions: Greif (1994)  
-\>   
-\> iii) Social norms as an obstacle to the demographic transition: Munshi (2000)
+\\> i) Norms helped to sustain long distance trade among Maghribi traders: Greif (1993)   
+\\>    
+\\> ii) However, successful informal institution can be an obstacle to the development of formal institutions: Greif (1994)   
+\\>    
+\\> iii) Social norms as an obstacle to the demographic transition: Munshi (2000)
 
 c) Formal institutions
 
-\> i) Institutions differ widely around the world: La Porta, de Silanes, Shleifer, and Vishny (1998)  
-\>   
-\> ii) Good institutions are important for economic performance: aggregate approach: Acemoglu, Johnson, and Robinson (2001)  
-\>   
-\> iii) Historical approach: In India, colonial history continues to impact today's outcomes: Banerjee and Iyer (2002); Iyer (2003)  
-\>   
-\> iv) The mechanics of why institutions matter. A poor institutional environment may makes business difficult. A study of contracting and reputation in the Indian Software industry: Banerjee and Duflo (2000)
+\\> i) Institutions differ widely around the world: La Porta, de Silanes, Shleifer, and Vishny (1998)   
+\\>    
+\\> ii) Good institutions are important for economic performance: aggregate approach: Acemoglu, Johnson, and Robinson (2001)   
+\\>    
+\\> iii) Historical approach: In India, colonial history continues to impact today's outcomes: Banerjee and Iyer (2002); Iyer (2003)   
+\\>    
+\\> iv) The mechanics of why institutions matter. A poor institutional environment may makes business difficult. A study of contracting and reputation in the Indian Software industry: Banerjee and Duflo (2000)
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -312,9 +312,9 @@ La Porta, R., F. L. de Silanes, A. Shleifer, and R. Vishny. "Law and Finance." *
 
 \*Acemoglu, D., S. Johnson, and J. Robinson. "The Colonial Origins of Comparative Development: An Empirical Investigation." *American Economic Review* 91, no. 5 (2001): 1369-1401.
 
-Banerjee, A. V., and L. Iyer. "[History, Institutions and Economic Performance: The Legacy of Colonial Land Tenure Systems in India](http://ideas.repec.org/a/aea/aecrev/v95y2005i4p1190-1213.html)." *American Economic Review* 95, no. 4 (2005): 1190-1213. ([PDF](http://globetrotter.berkeley.edu/macarthur/inequality/papers/BanerjeeLandTen.pdf))
+Banerjee, A. V., and L. Iyer. "[History, Institutions and Economic Performance: The Legacy of Colonial Land Tenure Systems in India](http://ideas.repec.org/a/aea/aecrev/v95y2005i4p1190-1213.html)." *American Economic Review* 95, no. 4 (2005): 1190-1213.
 
-Iyer, L. "The Long-term Impact of Colonial Rule: Evidence from India." Mimeograph, Massachusetts Institute of Technology, 2003. ([PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.458.8847&rep=rep1&type=pdf))
+Iyer, L. "[The Long-term Impact of Colonial Rule: Evidence from India](https://web.mit.edu/14.75j/www/iyer.pdf)." (PDF). Massachusetts Institute of Technology, 2002. 
 
 Banerjee, A. V., and E. Duflo. "[Reputation Effects and the Limits of Contracting: A Study of the Indian Software Industry](https://www.researchgate.net/publication/24091713_Reputation_Effects_And_The_Limits_Of_Contracting_A_Study_Of_The_Indian_Software_Industry)." *Quarterly Journal of Economics* 115, no. 3 (2000): 989-1017.
 
