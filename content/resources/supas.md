@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Supporting data file for a problem set on estimating the returns to
   schooling: the INPRES School Construction Program in Indonesia.'
-file: /ol-ocw-studio-app/courses/14-74-foundations-of-development-policy-spring-2009/82171793f5c9609845600fea7bcb9732_supas.dta
+file: /courses/14-74-foundations-of-development-policy-spring-2009/82171793f5c9609845600fea7bcb9732_supas.dta
 file_size: 2638640
 file_type: application/octet-stream
 learning_resource_types:
