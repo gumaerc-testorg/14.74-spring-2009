@@ -73,7 +73,7 @@ supas.dta ({{% resource_link 82171793-f5c9-6098-4560-0fea7bcb9732 "DTA" %}})
 
 Duflo, Esther, Pascaline Dupas, and Michael Kremer. "Peer Effects, Pupil-teacher Ratios, and Teacher Incentives: Evidence from a Randomized Evaluation in Kenya." Mimeograph, Massachusetts Institute of Technology, September 2007.
 
-Glewwe, Paul, Michael Kremer, and Sylvie Moulin. "[Many Children Left Behind? Textbooks and Test Scores in Kenya](http://ideas.repec.org/p/nbr/nberwo/13300.html)." _American Economic Journal: Applied Economics_ 1, no. 1 (January 2009): 112-135.
+Glewwe, Paul, Michael Kremer, and Sylvie Moulin. "{{% resource_link "603b7514-4bcf-41f9-808d-e7c34843e4d5" "Many Children Left Behind? Textbooks and Test Scores in Kenya" %}}." _American Economic Journal: Applied Economics_ 1, no. 1 (January 2009): 112-135.
 
 
 {{< tdclose >}}
@@ -99,7 +99,7 @@ Essay question on regression
 
 ted\_miguel\_worms.dta ({{% resource_link 2b79215b-6829-fdad-ab67-44daf7bf68a0 "DTA" %}})
 
-Miguel, Edward, and Michael Kremer. "[Worms: Identifying Impacts on Education and Health in the Presence of Treatment Externalities](http://ideas.repec.org/a/ecm/emetrp/v72y2004i1p159-217.html)." _Econometrica_ 72, no. 1 (January 2004): 159-217.
+Miguel, Edward, and Michael Kremer. "{{% resource_link "c0c0697e-89d5-4324-853b-05d9d42635b1" "Worms: Identifying Impacts on Education and Health in the Presence of Treatment Externalities" %}}." _Econometrica_ 72, no. 1 (January 2004): 159-217.
 
 
 {{< tdclose >}}
@@ -127,7 +127,7 @@ Savings: evidence from Thailand
 
 paxson.dta ({{% resource_link 577d5333-f090-dfc1-e001-f8904efc5172 "DTA" %}})
 
-Paxson, Christina. "[Using Weather Variability to Estimate the Response of Savings to Transitory Income in Thailand](http://ideas.repec.org/a/aea/aecrev/v82y1992i1p15-33.html)." _American Economic Review_ 82, no. 1 (March 1992): 15-33.
+Paxson, Christina. "{{% resource_link "290eb4ab-2c1b-4bb4-aa36-374d6fa94bf8" "Using Weather Variability to Estimate the Response of Savings to Transitory Income in Thailand" %}}." _American Economic Review_ 82, no. 1 (March 1992): 15-33.
 
 
 {{< tdclose >}}
@@ -151,7 +151,7 @@ Credit as insurance
 
 ({{% resource_link e7929f0c-22e2-8be5-7499-06343482320f "PDF" %}})
 
-Udry, Christopher. "[Credit Markets in Northern Nigeria: Credit as Insurance in a Rural Economy](http://ideas.repec.org/a/oup/wbecrv/v4y1990i3p251-69.html)." _World Bank Economic Review_ 4, no. 3 (September 1990): 251-269.
+Udry, Christopher. "{{% resource_link "b128a8dc-3d02-495d-8c29-f5e9519fd789" "Credit Markets in Northern Nigeria: Credit as Insurance in a Rural Economy" %}}." _World Bank Economic Review_ 4, no. 3 (September 1990): 251-269.
 
 
 {{< tdclose >}}

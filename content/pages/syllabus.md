@@ -30,7 +30,7 @@ Textbooks and Readings
 
 The textbook for this class is Debraj Ray's _Development Economics_. However, we will rely mostly on articles. There are many readings for this class. You are not expected to read every single article in detail, but you are expected to understand the methods used by the authors to reach their conclusions. Required readings are starred. Lecture notes will be distributed at each lecture. They are not a substitute for attending the class, but rather a study aid.
 
-Ray, Debraj. [_Development Economics_](http://press.princeton.edu/titles/6315.html). Princeton, NJ: Princeton University Press, 1998. ISBN: 9780691017068.
+Ray, Debraj. {{% resource_link "e21e4d94-2c3e-4c49-bf9f-8dfaf9221807" "_Development Economics_" %}}. Princeton, NJ: Princeton University Press, 1998. ISBN: 9780691017068.
 
 Requirements
 ------------
