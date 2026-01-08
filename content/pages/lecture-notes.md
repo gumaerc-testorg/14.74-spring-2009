@@ -110,7 +110,7 @@ Bargaining within families
 ({{% resource_link 919b5c03-68bd-8b4e-0b50-783a6377c767 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Tables 2 and 6 in Thomas, Duncan. "{{% resource_link "aa19a625-efb5-471a-a725-35bda4fdf4cd" "Intra-household Resource Allocation: An Inferential Approach" %}}." _Journal of Human Resources_ 25, no. 4 (1990): 635-664.
+Tables 2 and 6 in Thomas, Duncan. "[Intra-household Resource Allocation: An Inferential Approach](http://ideas.repec.org/p/fth/yalegr/586.html)." _Journal of Human Resources_ 25, no. 4 (1990): 635-664.
 {{< tdclose >}}
 
 {{< trclose >}}
